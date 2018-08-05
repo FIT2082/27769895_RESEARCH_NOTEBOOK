@@ -1,0 +1,5 @@
+# Week 2
+## Meeting
+The primary goal of the first meeting was to discuss the research topic of "Natural Interaction Methods for Augmented Reality" and how to approach this kind of research over the 12 week period. It was decided that it would be best to start off by focusing on these interaction methods using VR as opposed to AR as it is easier to work with, and the work done on a VR project can easily be adapted to suit AR. Another topic of discussion involved potential applications for the research project, one which was brought up was integrating it with another project which focused on assisting maintenance workers in complexe environments with AR. Lastly, we spoke about, and looked at, some of the potential technologies that could be used, these included the HTC Vive for VR and various other technologies to assist with both eye and hand tracking which have a multitude of uses when it comes to interaction with both VR and AR.
+## Next week
+Some of the goals before next week include: familiarising myself with Unity, considering various different ways in which users can interact with VR and AR, as well as beginning work on the project specifications. 
