@@ -1,0 +1,9 @@
+# Week 9
+## Meeting
+The primary purpose of this week's meeting was to demonstrate the work completed so far, now that the actual development has started. We were also advised to send in some screenshots of the project by Thursday as well as prepare to demonstrate it in VR by the next meeting. Apart from this we were also advised to work entirely within a VR environment when possible. Testing things within VR will provide a better feel for how the softare will eventually be used, as opposed to substituting VR controls for a mouse and keyboard, as the experience may differ.
+
+## Development
+This week we seperated the workload into work on work with graph maker, and work with the leap motion. The work done with regards to the graphs involved formatting and understanding the given sample data as well as reading it into the project so that it can be displayed. There was also the challenge of learning how to display the data in the 3D space once it has been read in from the file, as well as setting it up so that it can be easily viewed from VR mode. In terms of work done with the leap motion, the main focus was getting graphs to appear when an object is interacted with. Currently, the form of interaction is having the user hover their hand over the object. There was also some inital work done setting up the models for the hands in VR and ensuring that they were well positioned when viewed in VR.
+
+## Next Week
+Some of the goals for next week include adding more detail to the graph, such as being able to view individual nodes, and potentially interacting with the data, not just toggling its visiblity. Another aim is to incorperate some form of hand menu to aid in deciding which data is seen when an object is interacted with. Also add more general functionality, such as closing graphs once they are visible.
